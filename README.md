@@ -1,1 +1,3 @@
-# thearc
+# Student Attendance App
+
+Your final README content here...
